@@ -1,7 +1,70 @@
--------------------------------------------------------------------------------------------------------------------------------------------------------------
-# All The Forge 7 - ATF7 | Patch Notes
-<h3>Be sure to always backup your world(s) before updating!</h3>
 -------------------------------------------------------------------------------------------------------------------------------------------------------
+# All The Forge 7 - ATF7 | Patch Notes
+## Be sure to always backup your world(s) before updating!
+-------------------------------------------------------------------------------------------------------------------------------------------------------
+<h1>V0.0.3</h1>
+
+**Updated:**
++ Forge to (37.0.103 → 37.1.1)
++ Awesome Dungeon (1.1.0 → 1.1.3)
++ Applied Energistics 2 (9.0.0 Alpha 1 → 9.0.0 Beta 2)
++ Better Advancements (0.1.2.116 → 0.1.2.119)
++ Balm (1.7.0 → 1.8.2)
++ Cloth Config (v5.0.38 → v5.1.40)
++ Collective (2.64 → 3.8)
++ Connected Glass (1.1.0 → 1.1.1)
++ Connectivity (2.3 → 2.5)
++ Controlling (8.0.0.5 → 8.0.7)
++ Craftable Horse Armour & Saddle (v1.6 → v1.7)
++ Cosmetic Armor Reworked (v1 → v1a)
++ Croptopia (1.6.2 → 1.7.2)
++ Curios API (5.0.1.0 → 5.0.2.3)
++ Doggy Talents (2.1.0.6 → 2.2.10)
++ Earth Mobs (0.3.1 → 0.4.2)
++ FancyMenu (2.3.5 → 2.4.2)
++ Hunter Illager (2.4.0 → 2.4.0)
++ Just Enough Items (8.1.0.31 → 8.3.0.45)
++ JourneyMap (5.7.3rc4 → 5.7.3)
++ Macaw's Bridges (2.0.0 → 2.0.1)
++ Macaw's Doors (1.0.4 → 1.0.5)
++ Macaw's Fences and Walls (1.0.1 → 1.0.2)
++ Macaw's Lights and Lamps (1.0.1 → 1.0.2)
++ Macaw's Trapdoors (1.0.3 → 1.0.4)
++ Macaw's Windows (2.0.1 → 2.0.2)
++ Restored Earth (1.1.0 → 1.3.0)
++ Simple Discord RPC (2.4 → 2.6.1)
++ Sophisticated Backpacks (3.5.2.371 → 3.12.1.418)
++ Tree Harvester (3.2 → 4.1)
++ Waystones (8.1.4 → 8.2.0)
++ Zerocore 2 (2.1.5 → 2.1.7)
+
+
+**Changed/Fixed**
++ Patch a recent security vulnerability affecting Minecraft.
++ Updated Server files (**Recommend all server owners to use the new files provided [Here](https://www.curseforge.com/minecraft/modpacks/all-the-forge-7/files/all?filter-game-version=1738749986%3a73242)**).
++ Server files now use our SIMPLE FILES one click setup.
++ Brand new main menu music.
+
+
+**Added:**
++ Twilight Forest
++ Default Options
++ Macaw's Bridges
++ Polymorph
++ NetherPortalFix
++ Old Combat Mod
+
+
+**Removed:**
++ Memory Settings
++ Corpse
++ Not Enough Crashes
++ Drippy Loading Screen
+
+
+Report any bugs & issues over at our [GitHub Tracker](https://github.com/AMPZNetwork/All-The-Forge-7)
+
+---------------------------------------------------------------------------------------------
 <h1>V0.0.2</h1>
 
 **Updated:**
@@ -41,15 +104,13 @@
 **Removed:**
 + 
 
-Report any bugs & issues over at<br>
-https://github.com/AMPZNetwork/All-The-Forge-7
+Report any bugs & issues over at our [GitHub Tracker](https://github.com/AMPZNetwork/All-The-Forge-7)
 
 ---------------------------------------------------------------------------------------------
 <h1>V0.0.1</h1>
 
 Initial BETA Release.
 
-Report any bugs & issues over at<br>
-https://github.com/AMPZNetwork/All-The-Forge-7
+Report any bugs & issues over at our [GitHub Tracker](https://github.com/AMPZNetwork/All-The-Forge-7)
 
 ---------------------------------------------------------------------------------
