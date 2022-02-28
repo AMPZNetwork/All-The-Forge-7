@@ -2,6 +2,50 @@
 # All The Forge 7 - ATF7 | Patch Notes
 ## Be sure to always backup your world(s) before updating!
 -------------------------------------------------------------------------------------------------------------------------------------------------------
+<h1>V0.0.4</h1>
+
+**Updated:**
++ Awesome Dungeon - Forge (1.1.3 → 2.0.5)
++ Biomes O' Plenty (14.0.0.38 → 14.0.0.43)
++ Caelus API (3.0.0.1 → 3.0.0.2)
++ Cloth Config API (5.1.40 → 5.3.58)
++ Collective (3.8 → 4.7)
++ Controlling (8.0.7 → 8.0.11)
++ Cosmetic Armor Reworked (1a → 1b)
++ Curios API (5.0.2.3 → 5.0.2.7)
++ End Remastered (R4.1.2 → 5.0.1-R)
++ Engineer's Decor (1.1.17 → 1.1.18)
++ Extreme Reactors (2.0.31 → 2.0.38)
++ JourneyMap (5.7.3 → 5.8.0 Beta 15)
++ Just Enough Items (8.3.0.45 → 8.3.1.62)
++ Just Enough Resources (0.13.0.131 → 0.13.1.134)
++ Polymorph (0.31 → 0.33)
++ Restored Earth (1.3.0 → 1.4.1)
++ Security Craft (1.8.23 Beta 5 → 1.9.0.2)
++ Simple Discord RPC (2.6.1 → 2.7.2)
++ Sophisticated Backpacks (3.12.1.418 → 3.12.3.496)
++ The Twilight Forest (4.0.860 → 4.0.875)
++ ZeroCore 2 (2.1.7 → 2.1.11)
+
+**Changed/Fixed**
++ Fixed "More Packs" and "CurseForge" button.
++ Fixed server files failing to startup currectly.
+
+
+**Added:**
++ Toast Control
++ Macaw's Roofs
+
+
+**Removed:**
++ Baubles Reborn
++ Baubles Interface
++ SimplyJetpacks2
+
+
+Report any bugs & issues over at our [GitHub Tracker](https://github.com/AMPZNetwork/All-The-Forge-7)
+
+---------------------------------------------------------------------------------------------
 <h1>V0.0.3</h1>
 
 **Updated:**
